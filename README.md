@@ -48,8 +48,6 @@ Use plain labels alongside color for pass, failure, disagreement, and missing da
 
 OrcaBench grew out of the research for [LiteBench](https://github.com/KyleDerZweite/litebench), a separate personal writing benchmark. This project focuses on complete agent configurations and human comparison of their artifacts.
 
-The name is already used by the unrelated [Airoura/OrcaBench](https://github.com/Airoura/OrcaBench), which studies social AI character content. This repository is an independent orchestration project and claims no affiliation or name exclusivity.
-
 ## License
 
 [MIT](LICENSE). Linked papers, software, and websites retain their own licenses. This repository summarizes research in original prose and does not redistribute private chats or third-party datasets.

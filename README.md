@@ -1,6 +1,6 @@
 # OrcaBench
 
-![An orca swimming above a quiet teal sea](assets/orca.svg)
+![A pod of five black-and-white orcas swimming together through teal water](assets/orca-pod-banner.png)
 
 ## WIP
 
@@ -8,7 +8,7 @@ OrcaBench is a personal orchestration benchmark. Two maintainers compare anonymo
 
 We want to find configurations we would actually use on our projects. The eventual leaderboard will reflect our tasks and preferences. Human votes are the authority for preference scores. Automated checks report whether the result works; cost and runtime show what it took.
 
-This repository currently contains research, a proposed evaluation protocol, and an orca design reference. No benchmark runs, ballots, ratings, or working arena have been produced here.
+This repository currently contains research, a proposed evaluation protocol, and pod artwork. No benchmark runs, ballots, ratings, or working arena have been produced here.
 
 ## Start here
 
@@ -30,7 +30,11 @@ Initial publication can use static pages and precomputed results. A small privat
 
 ## Design reference
 
-The orca is the visual reference: a clear black silhouette, white eye patch and belly, and a small amount of sea color. The original [SVG](assets/orca.svg) is included under this repository's MIT license.
+<img src="assets/orca-pod-logo.png" alt="OrcaBench logo, three orcas swimming as a pod" width="128">
+
+A pod of orcas is the visual reference for orchestration: distinct animals swimming toward a shared result. Black silhouettes, white markings, and a small amount of teal keep the group readable at small sizes.
+
+The [logo](assets/orca-pod-logo.png) and [banner](assets/orca-pod-banner.png) were generated with ImageGen using [these prompts](assets/design-prompts.md). The earlier [single-orca SVG](assets/orca.svg) remains as a design reference. Repository artwork is included under the MIT license.
 
 | Use | Color |
 |---|---|
